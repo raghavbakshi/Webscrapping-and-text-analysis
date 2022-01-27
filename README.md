@@ -1,7 +1,7 @@
 # Webscrapping-and-text-analysis
 The aim is to extract the text from links and perform text analysis. Beautiful Soup is used for the extraction and some NLP libraries are used. 
 Here we are calulating all the below information from the text.
-# POSITIVE SCORE 
+## POSITIVE SCORE 
 # NEGATIVE SCORE
 POLARITY SCORE
 SUBJECTIVITY SCORE
